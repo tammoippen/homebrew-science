@@ -33,6 +33,7 @@
   "metis": "homebrew/core",
   "nco": "homebrew/core",
   "ncview": "homebrew/core",
+  "nest": "homebrew/core",
   "netcdf": "homebrew/core",
   "nlopt": "homebrew/core",
   "octave": "homebrew/core",
